@@ -1,0 +1,4 @@
+cc gd.c -c
+cc libp*m*.c -c
+cc ppmtogif.c *.o -o ppmtogif
+cc ppmquant.c *.o -o ppmquant

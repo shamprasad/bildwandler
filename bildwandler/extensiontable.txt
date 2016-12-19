@@ -1,0 +1,6 @@
+.tiff 1
+.gif 2
+.ppm 3
+.bmp 4
+.jpg 5
+.png 6

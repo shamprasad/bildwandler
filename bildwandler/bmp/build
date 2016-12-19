@@ -1,0 +1,2 @@
+cc bmp_io.c -c
+cc bmp_io_prb.c bmp_io.o

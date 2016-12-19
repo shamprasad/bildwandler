@@ -1,0 +1,2 @@
+cc ppm_io.c -c
+cc ppm_prb.c ppm_io.o

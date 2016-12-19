@@ -1,0 +1,2 @@
+cc bild_wandler.c tiff/*.o ppm/ppm_io.o bmp/bmp_io.o gif/gd.o tga/tga_io.o -lm -o bildWandler
+

@@ -1,0 +1,1 @@
+cc tga_io.c -c
